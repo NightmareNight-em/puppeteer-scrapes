@@ -1,0 +1,36 @@
+{
+  "name": "finbox",
+  "version": "1.0.0",
+  "description": "Scraping and Getting a Product from Amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightmareNight-em/finbox-scrapes.git"
+  },
+  "keywords": [
+    "node",
+    "scraping",
+    "cheerio"
+  ],
+  "author": "Harshit Nigam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NightmareNight-em/finbox-scrapes/issues"
+  },
+  "homepage": "https://github.com/NightmareNight-em/finbox-scrapes#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "fse": "^4.0.1",
+    "inquirer": "^8.2.6",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^21.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.7"
+  }
+}
