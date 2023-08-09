@@ -1,5 +1,5 @@
-# finbox-scrapes
-Scraping and Getting a Product from Amazon
+# puppeteer-scrapes
+Scraping and Getting a Product HTML from Amazon
 
 ### Tech Stack
 - `Node.js`
